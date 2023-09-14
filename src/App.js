@@ -21,7 +21,7 @@ import CartState from './context/cart/CartState';
 
 <🦄🦄me_2023-0822-2-context_api-basic_frame2-folder_seperated-ver>
 🍀CartState.js 파일 따로 만들어서 Provider, initialState, reducer, state 따로 옮겨서 정리하기
-
+   
 🍀initialState 최상단에 선언 제일 먼저하기
 */
 
