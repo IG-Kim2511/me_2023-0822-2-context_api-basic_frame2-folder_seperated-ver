@@ -10,7 +10,7 @@ import CartState from './context/cart/CartState';
 
 /* 
 <🦄🦄me_2023-0822-context_api-basic_frame-folder>
-🍀App.js에 Provider, initialState, reducer, state 모두 넣음  
+🍀App.js에 Provider, initialState, reducer, state 모두 넣음    
 
 1. createContext : ㄱcontext만듬 (ㄱcontext.js)
 
